@@ -1,6 +1,5 @@
 - # 👋 Hi, I’m @KrishnaVaria
-- 🌱 I’m currently learning ..Web Dev
-- 🏫 I'm in second year, B.E in CSE
+- 🏫 I'm in third year, B.E in CSE
 - 📽️Working on some cool and interesting projects
 
 <!---
